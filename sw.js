@@ -1,6 +1,6 @@
 /* オフライン動作用の Service Worker
    アセットを更新したら CACHE のバージョン番号を上げること */
-var CACHE = "routine-v1";
+var CACHE = "routine-v2";
 var ASSETS = [
   "./",
   "./index.html",
